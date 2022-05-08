@@ -1,2 +1,3 @@
 #SSH的截图  
-![SSH的截图](ssh%E6%88%AA%E5%9B%BE.bmp)
+![SSH的截图1](ssh截图1.bmp)
+![SSH的截图2](ssh截图2.bmp)
